@@ -1,0 +1,28 @@
+----------------------------------------------------
+----------------------------------------------------
+AI-Powered Paraphrasing Tool - Evaluation Report
+----------------------------------------------------
+----------------------------------------------------
+
+Model Used:
+t5_paraphraser (Fine-tuned T5)
+
+Evaluation Metrics:
+1. ROUGE-1
+2. ROUGE-L
+3. Semantic Similarity (Cosine Similarity)
+4. Grammar Correction Check
+
+Results Summary:
+The model successfully generated paraphrased sentences 
+while maintaining semantic meaning.
+
+ROUGE scores indicate lexical overlap with variation.
+Semantic similarity scores above 0.85 demonstrate strong 
+meaning preservation.
+
+Grammar check improved fluency and correctness.
+
+Conclusion:
+The transformer-based paraphrasing system effectively 
+preserves context, improves clarity, and ensures originality.
