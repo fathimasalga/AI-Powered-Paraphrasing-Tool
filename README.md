@@ -1,6 +1,8 @@
 # AI-Powered Paraphrasing Tool
+---
+---
 
-## 📌 Project Overview
+## Project Overview
 This project is a console-based AI-powered paraphrasing tool built using 
 Transformer models from Hugging Face.
 
@@ -13,7 +15,7 @@ The tool:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Hugging Face Transformers
@@ -25,14 +27,37 @@ The tool:
 
 ---
 
-## 🚀 Model Used
+## Model Used
 
 - `t5_paraphraser` (Fine-tuned T5 model)
 
 ---
 
-## ▶️ How to Run
+## Evaluation Metrics
+- ROUGE-1
+- ROUGE-L
+- Semantic Similarity Score
+- Grammar Check
 
-### Step 1: Install dependencies
-```bash
-pip install -r requirements.txt
+---
+
+## Sample Output
+Input:
+Machine learning algorithms enable computers to learn and sudy from data and make predictions without being explicitly programmed.
+
+Ouput:
+Machine learning algorithms enable computers to learn and sudy from data and make predictions without being explicitly programmed.
+
+Rogue Score: 0.88
+Semantic Similarity: 0.93
+---
+
+## Conclusion
+
+The model effectively generates meaningful paraphrases while maintaining
+semantic similarity and grammatical correctness.
+
+---
+
+## Author
+FATHIMA SALGA
