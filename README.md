@@ -49,7 +49,9 @@ Ouput:
 Machine learning algorithms enable computers to learn and sudy from data and make predictions without being explicitly programmed.
 
 Rogue Score: 0.88
-Semantic Similarity: 0.93
+
+Semantic Similarity score: 0.93
+
 ---
 
 ## Conclusion
